@@ -1,0 +1,6 @@
+Welcome to DrJava.  Working directory is C:\cygwin\home\feilg\Teaching\Sheridan\201609\PROG10082\src\sheridan
+> run Input
+Please enter the radius of the circle: 
+ [DrJava Input Box]
+The area is 1.3472991920107498E12
+> 
